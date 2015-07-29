@@ -1,0 +1,16 @@
+{
+  "name": "brickflow-qumblr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ifroz <ifrozen@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "brickflow-logger": "0.1.6",
+    "nconf": "^0.6.9",
+    "qumblr.js": "0.0.3"
+  }
+}

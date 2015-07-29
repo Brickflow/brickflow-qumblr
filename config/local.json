@@ -1,0 +1,14 @@
+{
+  "private": {
+    "TUMBLR_APP_KEY": "key",
+    "TUMBLR_APP_SECRET": "secret",
+    "RABBITMQ_CREDENTIALS": {
+        "host": "kitana.brickflow.com",
+        "login": "brickflow",
+        "password": "password"
+    },
+    "LOGSTASH_HOST": "raiden.brickflow.com"
+  },
+  "LOGSTASH_PORT": 28777,
+  "LOGSTASH_APP_NAME": "brickflow_node"
+}
